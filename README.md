@@ -1,51 +1,41 @@
-## Hi there 👋
+## 👋 Hi there, I'm Arul!
 
-<!--
-**Arul-DevX/Arul-DevX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+Welcome to my GitHub profile! I'm an aspiring data analyst passionate about turning raw data into meaningful insights. 📊
 
-Welcome to my GitHub profile! I'm Arul, an aspiring developer passionate about creating innovative solutions through code.  
+---
 
-### 👨‍💻 About Me:
-- 🔭 I’m currently working on a **Sign Language Recognition System** to help bridge communication gaps for the deaf and mute community.  
-- 🌱 I’m currently learning **Full Stack Development with Python** and exploring **AR/AI technologies**.  
-- 👯 I’m looking to collaborate on impactful open-source projects that solve real-world problems.  
-- 🤔 I’m looking for help with **advanced AI integration** and **3D character synchronization in AR**.  
-- 💬 Ask me about anything related to **web development**, **gesture recognition**, or **creative problem-solving**.  
-- 📫 How to reach me: arulraman77@gmail.com 
+### 👨‍🎓 About Me
+- 🎓 Final year B.Tech IT student at **PSV College of Engineering and Technology**, Krishnagiri.  
+- 📍 Currently learning **Data Analysis** at **Innomatics Research Labs**, Bangalore.  
+- 🔍 Exploring the world of data to uncover patterns, trends, and stories behind the numbers.  
+- 💬 Ask me about: Data wrangling, Python scripting, or analytics project ideas.  
+- 📫 Reach me at: arulraman77@gmail.com  
 - 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I use my code editor's dark mode more than I use sunlight, and every project tells a unique tale.  
+- ⚡ Fun fact: I see the world in rows, columns, and unexpected correlations.
 
 ---
 
-### 🌟 Skills & Technologies:
-- **Programming Languages**: Python, JavaScript, HTML, CSS, SQL 
-- **Frameworks & Libraries**: TensorFlow, OpenCV, Beautiful Soup, Mediapipe  
-- **Tools & Platforms**: Supabase, Streamlit  
-- **Special Interests**: Gesture Recognition, AR/VR, AI/ML  
+### 🧠 Skills & Tools
+- **Languages**: Python, SQL  
+- **Focus Areas**: Data Cleaning, Analysis, and Visualization
 
 ---
 
-### 🚀 Featured Projects:
-1. 🖐️ **Sign Language Recognition System**  
-   A system that translates hand gestures into text and speech using TensorFlow and OpenCV.  
-   - **Technologies**: Python
+### 📈 Learning Journey
+I'm currently building my portfolio with hands-on projects in:
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Business Problem Solving with Data
 
-2. 🤖 **AI-Powered Chatbot**  
-   Chatbot integrated with Gemini API for intelligent conversation and interactive user experience.  
-   - **Technologies**: Python, JavaScript, HTML  
-
-3. 📈 **Real-Time News Portal**  
-   Built a web portal that fetches and displays real-time news using web scraping and dynamic visuals.  
-   - **Technologies**: Beautiful Soup, Streamlit  
+Stay tuned — awesome case studies and dashboards are on the way! 🚀
 
 ---
 
-### 🔗 Let's Connect:
-- 🌐 GitHub: [Arul-DevX](https://github.com/Arul-DevX)  
-- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-linkedin-username)  
-- ✉️ Email: arulraman77@gmail.com
+### 🔗 Let’s Connect
+- 💼 [LinkedIn](https://linkedin.com/in/your-linkedin-username)  
+- 🌐 [GitHub](https://github.com/Arul-DevX)  
+- 📧 Email: arulraman77@gmail.com  
 
 ---
 
-> *"Code is not just a skill; it's a superpower that transforms ideas into reality."*  
+> *"Data is the new oil — but insights are the real gold."* 🛢️✨
