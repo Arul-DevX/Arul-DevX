@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm an aspiring data analyst passionate about turn
 ---
 
 ### 🧠 Skills & Tools
-- **Languages**: Python, SQL  
+- **Languages**: Python, SQL, Power BI  
 - **Focus Areas**: Data Cleaning, Analysis, and Visualization
 
 ---
