@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm an aspiring data analyst passionate about turn
 ---
 
 ### 👨‍🎓 About Me
-- 🎓 Final year B.Tech IT student at **PSV College of Engineering and Technology**, Krishnagiri.  
+- 🎓 Completed B.Tech IT. 
 - 📍 Currently learning **Data Analysis** at **Innomatics Research Labs**, Bangalore.  
 - 🔍 Exploring the world of data to uncover patterns, trends, and stories behind the numbers.  
 - 💬 Ask me about: Data wrangling, Python scripting, or analytics project ideas.  
@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm an aspiring data analyst passionate about turn
 ---
 
 ### 🧠 Skills & Tools
-- **Languages**: Python, SQL, Power BI  
+- **Languages**: Python, EDA, SQL, Power BI, Excel  
 - **Focus Areas**: Data Cleaning, Analysis, and Visualization
 
 ---
@@ -32,7 +32,7 @@ Stay tuned — awesome case studies and dashboards are on the way! 🚀
 ---
 
 ### 🔗 Let’s Connect
-- 💼 [LinkedIn](https://linkedin.com/in/your-linkedin-username)  
+- 💼 [LinkedIn]((https://www.linkedin.com/in/arulraman/))  
 - 🌐 [GitHub](https://github.com/Arul-DevX)  
 - 📧 Email: arulraman77@gmail.com  
 
