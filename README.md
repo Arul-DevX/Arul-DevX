@@ -32,7 +32,7 @@ Stay tuned — awesome case studies and dashboards are on the way! 🚀
 ---
 
 ### 🔗 Let’s Connect
-- 💼 [LinkedIn]((https://www.linkedin.com/in/arulraman/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/arulraman/) 
 - 🌐 [GitHub](https://github.com/Arul-DevX)  
 - 📧 Email: arulraman77@gmail.com  
 
